@@ -1,4 +1,3 @@
-#include<stdio.h>
 // CODE TO INPUT AND PRINT THE ELEMENTS OF ARRAY
 #include<stdio.h>
 int main()
